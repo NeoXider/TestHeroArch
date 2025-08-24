@@ -8,7 +8,6 @@ UniRx (R3)
 UniTask
 MessagePipe
 VContainer
-TriInspector
 Assembly Definitions
 
 ## Улучшения героя на Clean Architecture
